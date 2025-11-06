@@ -1,3 +1,5 @@
+**REPOSITORY ARCHIVED! PLEASE REFER TO https://github.com/ossUser-Swift/swift-apps-collection**
+
 # Swift Playgrounds Projects
 Welcome to our collection of Swift Playgrounds projects, all generated and refined by AI, including the text you’re reading now.
 
